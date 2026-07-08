@@ -22,11 +22,8 @@ An intelligent weather application with an AI chatbot that answers questions abo
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-username.github.io/ai-weather-assistant/)
+[View Live Demo](https://github.com/ManasiMhaskar/ai-weather-assistant.git)
 
-## 📸 Screenshots
-
-(Add screenshots here)
 
 ## 🔧 Installation
 
